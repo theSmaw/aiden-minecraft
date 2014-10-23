@@ -1,0 +1,41 @@
+{
+    "src_folders": ["test"],
+    "output_folder": "coverage/e2e",
+    "custom_assertions_path": "",
+    "globals_path": "nightwatch.js",
+
+    "selenium": {
+        "start_process": true,
+        "server_path": "node_modules/selenium-server/lib/runner/selenium-server-standalone-2.43.1.jar",
+        "log_path": "coverage/e2e",
+        "host": "127.0.0.1",
+        "port": 4444,
+        "cli_args": {
+            "webdriver.chrome.driver": "node_modules/chromedriver/lib/chromedriver/chromedriver"
+        }
+    },
+
+    "live_output": true,
+
+    "test_settings": {
+        "default": {
+            "launch_url": "",
+            "selenium_port": 4444,
+            "selenium_host": "localhost",
+            "silent": false,
+            "screenshots": {
+                "enabled": false,
+                "path": ""
+            },
+            "desiredCapabilities": {
+                "browserName": "chrome",
+                "javascriptEnabled": true,
+                "acceptSslCerts": true,
+                "chromeOptions": {
+                    "args": ["window-size=1280,800", "disable-web-security"]
+
+                }
+            }
+        }
+    }
+}

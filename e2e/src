@@ -1,0 +1,37 @@
+'use strict';
+
+describe('WebUtils', function () {
+    var WebUtils;
+
+    function _inject() {
+
+        inject(function (_WebUtils_) {
+            WebUtils = _WebUtils_;
+        });
+    }
+
+    function _setup() {
+        _inject();
+    }
+
+    beforeEach(function () {
+        module('connectidClient.web');
+    });
+
+    describe('Parsing valid web URL', function() {
+
+        beforeEach(function () {
+            _setup();
+        });
+
+        it('puts http:// if not present', function () {
+            var validWebLink = WebUtils.getValidWebLink('www.connectid.me');
+            expect(validWebLink).to.eql('http://www.connectid.me');
+        });
+
+        it('does not add extra http if already present', function () {
+            var validWebLink = WebUtils.getValidWebLink('https://connectid.me');
+            expect(validWebLink).to.eql('https://connectid.me');
+        });
+    });
+});

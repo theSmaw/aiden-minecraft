@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="registration"
+             errors="0"
+             failures="1"
+             tests="16">
+  
+  <testsuite errors="0" failures="1" hostname="" id=""
+    name="Registration" package="registration" skipped="5"
+    tests="16" time="" timestamp="">
+    
+    
+      <testcase name="Element &lt;#mobile&gt; was visible after 123 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#mobile&gt; was visible after 104 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#email&gt; was visible after 52 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#password&gt; was visible after 68 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#submit&gt; was visible after 45 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#pinput&gt; was visible after 2477 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#submit&gt; was visible after 38 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;.title&gt; was visible after 1593 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#firstNameInput&gt; was visible after 49 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#lastNameInput&gt; was visible after 34 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Timed out while waiting for element &lt;#submit&gt; to be present for 15000 milliseconds.">
+        
+          <failure message="Expected &quot;visible&quot; but got: &quot;not found&quot;"></failure>
+        
+        
+      </testcase>
+    
+    
+    </testsuite>
+  
+</testsuites>

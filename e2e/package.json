@@ -1,0 +1,28 @@
+{
+  "name": "e2e",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "grunt-nightwatch": "~0.3.0"
+  },
+  "devDependencies": {
+    "chromedriver": "^2.10.0-1",
+    "selenium-server": "^2.43.1",
+    "firebase-token-generator": "^2.0.0",
+    "firebase": "^1.1.2",
+    "grunt": "^0.4.5",
+    "grunt-git": "^0.2.14",
+    "grunt-string-replace": "^1.0.0",
+    "grunt-contrib-clean": "^0.6.0",
+    "q": "^1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
