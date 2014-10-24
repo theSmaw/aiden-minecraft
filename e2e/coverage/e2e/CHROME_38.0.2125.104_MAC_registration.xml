@@ -1,67 +1,75 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites name="registration"
              errors="0"
-             failures="1"
-             tests="16">
+             failures="0"
+             tests="13">
   
-  <testsuite errors="0" failures="1" hostname="" id=""
-    name="Registration" package="registration" skipped="5"
-    tests="16" time="" timestamp="">
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Registration" package="registration" skipped="0"
+    tests="13" time="" timestamp="">
     
     
-      <testcase name="Element &lt;#mobile&gt; was visible after 123 milliseconds.">
+      <testcase name="Element &lt;#mobile&gt; was visible after 81 milliseconds.">
         
         
       </testcase>
     
-      <testcase name="Element &lt;#mobile&gt; was visible after 104 milliseconds.">
+      <testcase name="Element &lt;#mobile&gt; was visible after 62 milliseconds.">
         
         
       </testcase>
     
-      <testcase name="Element &lt;#email&gt; was visible after 52 milliseconds.">
+      <testcase name="Element &lt;#email&gt; was visible after 47 milliseconds.">
         
         
       </testcase>
     
-      <testcase name="Element &lt;#password&gt; was visible after 68 milliseconds.">
+      <testcase name="Element &lt;#password&gt; was visible after 45 milliseconds.">
         
         
       </testcase>
     
-      <testcase name="Element &lt;#submit&gt; was visible after 45 milliseconds.">
+      <testcase name="Element &lt;#submit&gt; was visible after 33 milliseconds.">
         
         
       </testcase>
     
-      <testcase name="Element &lt;#pinput&gt; was visible after 2477 milliseconds.">
+      <testcase name="Element &lt;#pinput&gt; was visible after 2339 milliseconds.">
         
         
       </testcase>
     
-      <testcase name="Element &lt;#submit&gt; was visible after 38 milliseconds.">
+      <testcase name="Element &lt;#submit&gt; was visible after 26 milliseconds.">
         
         
       </testcase>
     
-      <testcase name="Element &lt;.title&gt; was visible after 1593 milliseconds.">
+      <testcase name="Element &lt;.title&gt; was visible after 1183 milliseconds.">
         
         
       </testcase>
     
-      <testcase name="Element &lt;#firstNameInput&gt; was visible after 49 milliseconds.">
+      <testcase name="Element &lt;#firstNameInput&gt; was visible after 58 milliseconds.">
         
         
       </testcase>
     
-      <testcase name="Element &lt;#lastNameInput&gt; was visible after 34 milliseconds.">
+      <testcase name="Element &lt;#lastNameInput&gt; was visible after 28 milliseconds.">
         
         
       </testcase>
     
-      <testcase name="Timed out while waiting for element &lt;#submit&gt; to be present for 15000 milliseconds.">
+      <testcase name="Element &lt;#submit&gt; was visible after 36 milliseconds.">
         
-          <failure message="Expected &quot;visible&quot; but got: &quot;not found&quot;"></failure>
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#contactsView&gt; was visible after 96 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#contactsView&gt; is visible.">
         
         
       </testcase>

@@ -62,15 +62,14 @@ function register(email, mobile, browser) {
         .waitForElementVisible('#pinput', WAIT)
         .setValue('#pinput', '1234')
         .waitForElementVisible('#submit', WAIT)
+        .pause(1000)
         .click('#submit')
         .waitForElementVisible('.title', WAIT)
         .waitForElementVisible('#firstNameInput', WAIT)
         .setValue('#firstNameInput', mobile)
         .waitForElementVisible('#lastNameInput', WAIT)
         .setValue('#lastNameInput', email)
-        .pause(1000)
         .waitForElementVisible('#submit', WAIT)
-        .pause(1000)
         .click('#submit')
         .waitForElementVisible('#contactsView', WAIT);
 }

@@ -2,6 +2,94 @@
 <testsuites name="log_out"
              errors="0"
              failures="0"
-             tests="0">
+             tests="16">
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Log Out" package="log_out" skipped="0"
+    tests="16" time="" timestamp="">
+    
+    
+      <testcase name="Element &lt;#mobile&gt; was visible after 78 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#mobile&gt; was visible after 61 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#email&gt; was visible after 48 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#password&gt; was visible after 174 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#submit&gt; was visible after 48 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#pinput&gt; was visible after 2386 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#submit&gt; was visible after 47 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;.title&gt; was visible after 1186 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#firstNameInput&gt; was visible after 47 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#lastNameInput&gt; was visible after 45 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#submit&gt; was visible after 25 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#contactsView&gt; was visible after 76 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;.icon-settings&gt; was visible after 54 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;.ion-log-out&gt; was visible after 73 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#mobile&gt; was visible after 72 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#mobile&gt; is visible.">
+        
+        
+      </testcase>
+    
+    
+    </testsuite>
   
 </testsuites>

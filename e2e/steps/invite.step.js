@@ -11,7 +11,7 @@ function inviteNewBySMS(mobile, browser) {
         .waitForElementVisible('label[value="mobile"]', WAIT)
         .click('label[value="mobile"]')
         .waitForElementVisible('#mobile', WAIT)
-        .setValue('#mobile', '15151515')
+        .setValue('#mobile', mobile)
         .waitForElementVisible('.checkbox-profile-business', WAIT)
         .click('.checkbox-profile-business')
         .waitForElementVisible('#invite', WAIT)

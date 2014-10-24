@@ -2,6 +2,239 @@
 <testsuites name="CON-286-verification_status_not_updated"
              errors="0"
              failures="0"
-             tests="0">
+             tests="45">
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="CON-286 - Verification status not updated in ContactDetails for your connection to see" package="CON-286-verification_status_not_updated" skipped="0"
+    tests="45" time="" timestamp="">
+    
+    
+      <testcase name="Element &lt;#mobile&gt; was visible after 85 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#mobile&gt; was visible after 79 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#mobile&gt; was visible after 49 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#email&gt; was visible after 35 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#password&gt; was visible after 36 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#submit&gt; was visible after 60 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#pinput&gt; was visible after 2490 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#submit&gt; was visible after 26 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;.title&gt; was visible after 1140 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#firstNameInput&gt; was visible after 32 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#lastNameInput&gt; was visible after 31 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#submit&gt; was visible after 24 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#contactsView&gt; was visible after 83 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;.icon-invite&gt; was visible after 41 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;label[value=&quot;mobile&quot;]&gt; was visible after 71 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#mobile&gt; was visible after 66 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;.checkbox-profile-business&gt; was visible after 32 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#invite&gt; was visible after 34 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;.popup&gt; was not visible after 2151 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#close&gt; was visible after 30 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;.icon-settings&gt; was visible after 98 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;.ion-log-out&gt; was visible after 65 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#mobile&gt; was visible after 29 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#mobile&gt; was visible after 35 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#email&gt; was visible after 53 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#password&gt; was visible after 36 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#submit&gt; was visible after 27 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#pinput&gt; was visible after 2407 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#submit&gt; was visible after 26 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;.title&gt; was visible after 1163 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#firstNameInput&gt; was visible after 23 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#lastNameInput&gt; was visible after 38 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#submit&gt; was visible after 27 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#contactsView&gt; was visible after 82 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;.icon-feed&gt; was visible after 40 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#feedView&gt; was visible after 102 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;button.first&gt; was visible after 1218 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;.checkbox-profile-business&gt; was visible after 1137 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#selectProfile&gt; was visible after 46 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;.checkbox-profile-business&gt; was not visible after 1121 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;.icon-contacts&gt; was visible after 32 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;.is-connectid&gt; was present after 1238 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#contactDetailsView&gt; was visible after 177 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;#mobile1Verified&gt; was visible after 34 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;#mobile1Verified&gt; is visible.">
+        
+        
+      </testcase>
+    
+    
+    </testsuite>
   
 </testsuites>
